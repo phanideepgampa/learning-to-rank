@@ -15,5 +15,5 @@ For evaluating the model trained on the mq2007 dataset, use the below command
 python evaluate.py   --data_dir MQ2007/Fold   --model_file   best_models/
 ```
 
-#Results from the paper  
+# Results from the paper  
 A link for downloading the pre trained model with best scores for reproducibility will be provided soon.
