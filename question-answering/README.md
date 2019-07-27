@@ -37,6 +37,7 @@ Provide the path to the trained model using the command --model_file. Change the
 ```
 python evaluate.py --vocab_file wiki_qa/pickle_data/vocab.42b.300d.p  --data_dir wiki_qa/   --model_file best_models/
 ```
+# Results from the paper
 A link for downloading the pre trained model with best scores for reproducibility will be provided soon.
 
 
